@@ -1,0 +1,7 @@
+.inforbox{
+    text-align: center;
+}
+.cardcomponent{
+    display: flex;
+    justify-content: center;
+}
